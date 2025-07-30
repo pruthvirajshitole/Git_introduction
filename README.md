@@ -1,5 +1,5 @@
 # Git_introduction
 
-# This is git introduction by apna college
+# Git begginers guide
 
-Authour - Pruthviraj G.
+Authour - Pruthviraj
